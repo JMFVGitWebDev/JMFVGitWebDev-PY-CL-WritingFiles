@@ -16,8 +16,8 @@ class Lab:
         """
         try:
             with open(filename, 'w') as file:
-                file.write("Hello, World!\n")
-                file.write("This is a new line.")
+                file.write("This is a test content")
+                
                 # Write your code here so that you should be able to write the content into the file
                     
 
